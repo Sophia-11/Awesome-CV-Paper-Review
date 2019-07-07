@@ -10,4 +10,4 @@ Video object segmentation (VOS) aims at pixel-level object tracking given only t
 https://arxiv.org/abs/1907.01203v2
 ### code
 https://github.com/sydney0zq/PTSNet
-![](http://github.com/Sophia-11/Awesome-CV-Paper-Scanning/blob/master/Semantic%20Segmentation/images/1.png)
+![image](http://github.com/Sophia-11/Awesome-CV-Paper-Scanning/blob/master/Semantic%20Segmentation/images/1.png)
