@@ -1,6 +1,6 @@
 ## Multi-Instance Multi-Scale CNN for Medical Image Classification
 
-**标签：「图像分类」「多实例学习」 「目标跟踪」**
+**标签：「图像分类」「多实例学习」 **
 
 ![](<https://github.com/Sophia-11/Awesome-CV-Paper-Review/blob/master/Image%20Classification/images/1.png>)
 
@@ -10,11 +10,7 @@ Deep learning for medical image classification faces three major challenges: 1) 
 医学图像分类的深度学习面临三大挑战：1）用于训练的注释医学图像的数量通常很少; 2）感兴趣区域（ROI）相对较小，整个医学图像中的边界不清楚，并且可能出现在x，y（以及3D图像中的z）维度上的任意位置。但是，通常只注释整个图像的标签，并且本地化的ROI不可用; 3）医学图像中的ROI通常以不同的大小（尺度）出现。 我们使用多实例多尺度（MIMS）CNN来应对这三个挑战：1）我们提出了一个多尺度卷积层，它使用共享的卷积核集合提取不同感受域的模式，从而使得尺度不变的模式由这组紧凑的内核捕获。由于该层仅包含少量参数，因此对小型数据集的培训变得可行; 2）我们提出了一个“top-k pooling”来从多个空间维度聚合不同比例的特征图，允许在多实例学习（MIL）框架内使用弱注释训练模型。我们的方法被证明可以执行以及涉及两个3D和两个2D医学图像数据集的三个分类任务。
 
 ## 模型结构
-
-![](<https://github.com/Sophia-11/Awesome-CV-Paper-Review/blob/master/Image%20Classification/2019-07-08/images/2.png>)
+![](<https://github.com/Sophia-11/Awesome-CV-Paper-Review/blob/master/Image%20Classification/images/2.png>)
 
 ### 论文地址
 https://arxiv.org/pdf/1907.02413v1.pdf
-
-
-![](<https://github.com/Sophia-11/Awesome-CV-Paper-Review/blob/master/Image%20Classification/images/2.png>)
