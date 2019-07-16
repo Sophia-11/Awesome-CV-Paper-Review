@@ -2,7 +2,7 @@
 
 计算机视觉各个方向论文速览
 
-*最新更新时间: 2019/07/12*
+*最新更新时间: 7/16/2019 10:51:18 PM *
 
 # Top Papers of Object Detection
 
@@ -268,6 +268,8 @@
 ## 2019-07-08
 
 * [Proposal, Tracking and Segmentation (PTS): A Cascaded Network for Video Object Segmentation](https://github.com/Sophia-11/Awesome-CV-Paper-Review/blob/master/Semantic%20Segmentation/2019-07-07/Proposal%2C%20Tracking%20and%20Segmentation%20(PTS)%20A%20Cascaded%20Network%20for%20Video%20Object%20Segmentation.md)
+
+* [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation ](http://wuhuikai.me/FastFCNProject/fast_fcn.pdf)[`[paper]`](https://arxiv.org/abs/1903.11816)[`[code]`](https://github.com/wuhuikai/FastFCN)
 
 # Object Detection
 
