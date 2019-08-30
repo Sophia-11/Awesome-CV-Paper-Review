@@ -1,8 +1,13 @@
-# Awesome-CV-Paper-Review
+# 计算机视觉各个方向论文速览
 
-计算机视觉各个方向论文速览
+*Last updated: 2019/08/30*
 
-*最新更新时间: 7/16/2019 10:51:18 PM *
+#### Update log
+* 2019/08/30 * - 
+
+## Table of Contents
+- [目标检测](https://github.com/Sophia-11/Awesome-CV-Paper-Review/edit/master/README.md##目标检测论文分类)
+
 
 # Top Papers of Object Detection
 
